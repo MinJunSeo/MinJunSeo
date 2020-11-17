@@ -1,4 +1,4 @@
-#  서강준(MinJun Seo)
+#  서민준(MinJun Seo)
 
 - 🔭 I'm currently attending Daedeok Software Meister High School(DSM).
 - 🌱 I’m currently learning Javascript(Node.JS).
