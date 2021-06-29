@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Javascript(Node.JS).
 - 🥅 2020 Goals: Study intensive course for Javascript.
 - ⚡ Fun fact: I'm good at playing volleyball.
+- 💌 Blog: <a target="_blank" href="https://velog.io/@shin0805">Why? - velog</a>  
 
 ## Languages and Tools:
 
