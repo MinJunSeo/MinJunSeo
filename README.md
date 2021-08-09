@@ -1,8 +1,8 @@
 #  서민준(MinJun Seo)
 
 - 🔭 I'm currently attending Daedeok Software Meister High School(DSM).
-- 🌱 I’m currently learning Javascript(Node.JS).
-- 🥅 2020 Goals: Study intensive course for Javascript.
+- 🌱 I’m currently learning Java, Kotlin, Spring.
+- 🥅 2021 Aug Goal: perform onboarding task, read clean architecture, survive after vaccination
 - ⚡ Fun fact: I'm good at playing volleyball.
 - 💌 Blog: <a target="_blank" href="https://velog.io/@shin0805">Why? - velog</a>  
 
